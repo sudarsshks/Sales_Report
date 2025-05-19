@@ -15,7 +15,7 @@ This project analyzes a retail sales dataset from Kaggle to extract meaningful b
 📁 Files:
 - `retail_sales_cleaned.csv`: Cleaned sample dataset
 - `retail_sales_cleaned.csv`: Data preparation using Python
-- `dashboard.pbix`: Power BI dashboard with filters and KPIs
+- `Sales_Report.pbix`: Power BI dashboard with filters and KPIs
 
 🚀 How to Use:
 1. Open the notebooks using Jupyter.
